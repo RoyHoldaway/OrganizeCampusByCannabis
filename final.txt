@@ -1,0 +1,330 @@
+                                 Carnegie Mellon University
+                                             Pittsburgh, Mixed (Medical)
+                               #1 in Computer Science (tie)
+                      Massachusetts Institute of Technology
+                                              Cambridge, Fully legal
+                               #1 in Computer Science (tie)
+                                        Stanford University
+                                               Stanford, Fully legal
+                               #1 in Computer Science (tie)
+                         University of California--Berkeley
+                                               Berkeley, Fully legal
+                               #1 in Computer Science (tie)
+                   University of Illinois--Urbana-Champaign
+                                                 Urbana, Fully legal
+                                     #5 in Computer Science
+                                         Cornell University
+                                                 Ithaca, Mixed  (Medical)
+                               #6 in Computer Science (tie)
+                                   University of Washington
+                                                Seattle, Fully legal
+                               #6 in Computer Science (tie)
+                            Georgia Institute of Technology
+                                                Atlanta, Mixed
+                               #8 in Computer Science (tie)
+                                       Princeton University
+                                              Princeton, Mixed (Medical)
+                               #8 in Computer Science (tie)
+                                University of Texas--Austin
+                                                 Austin, Mixed
+                                    #10 in Computer Science
+                         California Institute of Technology
+                                               Pasadena, Fully legal
+                              #11 in Computer Science (tie)
+                          University of Michigan--Ann Arbor
+                                              Ann Arbor, Fully legal
+                              #11 in Computer Science (tie)
+                                        Columbia University
+                                               New York, Mixed  (Medical)
+                              #13 in Computer Science (tie)
+                      University of California--Los Angeles
+                                            Los Angeles, Fully legal
+                              #13 in Computer Science (tie)
+                           University of Wisconsin--Madison
+                                                Madison, Fully Illegal
+                              #13 in Computer Science (tie)
+                                         Harvard University
+                                              Cambridge, Fully legal
+                              #16 in Computer Science (tie)
+                        University of California--San Diego
+                                               La Jolla, Fully legal
+                              #16 in Computer Science (tie)
+                       University of Maryland--College Park
+                                           College Park, Mixed (Medical)
+                              #16 in Computer Science (tie)
+                                 University of Pennsylvania
+                                           Philadelphia, Mixed (Medical)
+                                    #19 in Computer Science
+                          Purdue University--West Lafayette
+                                         West Lafayette, Mixed
+                              #20 in Computer Science (tie)
+                                            Rice University
+                                                Houston, Mixed
+                              #20 in Computer Science (tie)
+                       University of Massachusetts--Amherst
+                                                Amherst, Fully legal
+                              #20 in Computer Science (tie)
+                          University of Southern California
+                                            Los Angeles, Fully legal
+                              #20 in Computer Science (tie)
+                                            Yale University
+                                              New Haven, Mixed (Medical)
+                              #20 in Computer Science (tie)
+                                           Brown University
+                                             Providence, Mixed (Medical)
+                              #25 in Computer Science (tie)
+                                            Duke University
+                                                 Durham, Fully Illegal
+                              #25 in Computer Science (tie)
+                                   Johns Hopkins University
+                                              Baltimore, Mixed (Medical)
+                              #25 in Computer Science (tie)
+                  University of North Carolina--Chapel Hill
+                                            Chapel Hill, Fully Illegal
+                              #25 in Computer Science (tie)
+                       University of Minnesota--Twin Cities
+                                            Minneapolis, Mixed (Medical)
+                                    #29 in Computer Science
+                                        New York University
+                                               New York, Mixed  (Medical)
+                              #30 in Computer Science (tie)
+                                    Northwestern University
+                                               Evanston, Fully legal
+                              #30 in Computer Science (tie)
+                                      Ohio State University
+                                               Columbus, Mixed (Medical)
+                              #30 in Computer Science (tie)
+             Pennsylvania State University--University Park
+                                        University Park, Mixed (Medical)
+                              #30 in Computer Science (tie)
+                           University of California--Irvine
+                                                 Irvine, Fully legal
+                              #30 in Computer Science (tie)
+                                      University of Chicago
+                                                Chicago, Fully legal
+                              #30 in Computer Science (tie)
+                                     University of Virginia
+                                        Charlottesville, Mixed
+                              #30 in Computer Science (tie)
+ Rutgers, The State University of New Jersey--New Brunswick
+                                             Piscataway, Mixed (Medical)
+                              #37 in Computer Science (tie)
+                            University of California--Davis
+                                                  Davis, Fully legal
+                              #37 in Computer Science (tie)
+                    University of California--Santa Barbara
+                                          Santa Barbara, Fully legal
+                              #37 in Computer Science (tie)
+                               Stony Brook University--SUMixed  (Medical)
+                                            Stony Brook, Mixed  (Medical)
+                              #40 in Computer Science (tie)
+                            University of Colorado--Boulder
+                                                Boulder, Fully legal
+                              #40 in Computer Science (tie)
+                                              Virginia Tech
+                                             Blacksburg, Mixed
+                              #40 in Computer Science (tie)
+                                   Arizona State University
+                                                  Tempe, Mixed (Medical)
+                              #43 in Computer Science (tie)
+                                          Dartmouth College
+                                                Hanover, Mixed (Medical)
+                              #43 in Computer Science (tie)
+                            North Carolina State University
+                                                Raleigh, Fully Illegal
+                              #43 in Computer Science (tie)
+                      Texas A&M University--College Station
+                                        College Station, Mixed
+                              #43 in Computer Science (tie)
+                                      University of Arizona
+                                                 Tucson, Mixed (Medical)
+                              #43 in Computer Science (tie)
+                                         University of Utah
+                                        Salt Lake City , Mixed (Medical)
+                              #43 in Computer Science (tie)
+                                          Boston University
+                                                 Boston, Fully legal
+                              #49 in Computer Science (tie)
+                                    Northeastern University
+                                                 Boston, Fully legal
+                              #49 in Computer Science (tie)
+                                      University of Florida
+                                            Gainesville, Mixed (Medical)
+                              #49 in Computer Science (tie)
+                                   University of Pittsburgh
+                                             Pittsburgh, Mixed (Medical)
+                              #49 in Computer Science (tie)
+                                    University of Rochester
+                                              Rochester, Mixed  (Medical)
+                              #49 in Computer Science (tie)
+                         Washington University in St. Louis
+                                              St. Louis, Mixed (Medical)
+                              #49 in Computer Science (tie)
+                            Indiana University--Bloomington
+                                            Bloomington, Mixed
+                              #55 in Computer Science (tie)
+                                  Michigan State University
+                                           East Lansing, Fully legal
+                              #55 in Computer Science (tie)
+                           Rensselaer Polytechnic Institute
+                                                   Troy, Mixed  (Medical)
+                              #55 in Computer Science (tie)
+                       University of California--Santa Cruz
+                                             Santa Cruz, Fully legal
+                              #58 in Computer Science (tie)
+                                   University of Notre Dame
+                                             Notre Dame, Mixed
+                              #58 in Computer Science (tie)
+                                      Vanderbilt University
+                                              Nashville, Fully Illegal
+                              #58 in Computer Science (tie)
+                                      Iowa State University
+                                                   Ames, Mixed
+                              #61 in Computer Science (tie)
+                                University at Buffalo--SUMixed  (Medical)
+                                                Buffalo, Mixed  (Medical)
+                              #61 in Computer Science (tie)
+                        University of California--Riverside
+                                              Riverside, Fully legal
+                              #61 in Computer Science (tie)
+                            University of Illinois--Chicago
+                                                Chicago, Fully legal
+                              #64 in Computer Science (tie)
+                                         University of Iowa
+                                              Iowa City, Mixed
+                              #64 in Computer Science (tie)
+                                       University of Oregon
+                                                 Eugene, Fully legal
+                              #64 in Computer Science (tie)
+                                University of Texas--Dallas
+                                             Richardson, Mixed
+                              #64 in Computer Science (tie)
+                            Case Western Reserve University
+                                              Cleveland, Mixed (Medical)
+                              #68 in Computer Science (tie)
+                                    George Mason University
+                                                Fairfax, Mixed
+                              #68 in Computer Science (tie)
+                                    Oregon State University
+                                              Corvallis, Fully legal
+                              #68 in Computer Science (tie)
+                          Rochester Institute of Technology
+                                              Rochester, Mixed  (Medical)
+                              #68 in Computer Science (tie)
+                                        Syracuse University
+                                               Syracuse, Mixed  (Medical)
+                              #68 in Computer Science (tie)
+                                     University of Delaware
+                                                 Newark, Mixed (Medical)
+                              #68 in Computer Science (tie)
+                                             William & Mary
+                                           Williamsburg, Mixed
+                              #68 in Computer Science (tie)
+                                  Colorado State University
+                                           Fort Collins, Fully legal
+                              #75 in Computer Science (tie)
+                               George Washington University
+                                             Washington, DC
+                              #75 in Computer Science (tie)
+                                           Tufts University
+                                                Medford, Fully legal
+                              #75 in Computer Science (tie)
+                            University of Nebraska--Lincoln
+                                                Lincoln, Fully Illegal
+                              #75 in Computer Science (tie)
+                                   University of New Mexico
+                                            Albuquerque, Mixed (Medical)
+                              #75 in Computer Science (tie)
+                         University of Tennessee--Knoxville
+                                              Knoxville, Fully Illegal
+                              #75 in Computer Science (tie)
+                                Washington State University
+                                                Pullman, Fully legal
+                              #75 in Computer Science (tie)
+                                         Clemson University
+                                                Clemson, Fully Illegal
+                              #82 in Computer Science (tie)
+                 CUMixed  (Medical) Graduate School and University Center
+                                              New York , Mixed  (Medical)
+                              #82 in Computer Science (tie)
+                                          Drexel University
+                                           Philadelphia, Mixed (Medical)
+                              #82 in Computer Science (tie)
+                                           Emory University
+                                                Atlanta, Mixed
+                              #82 in Computer Science (tie)
+                                   Florida State University
+                                            Tallahassee, Mixed (Medical)
+                              #82 in Computer Science (tie)
+                              University of Central Florida
+                                                Orlando, Mixed (Medical)
+                              #82 in Computer Science (tie)
+                                  University of Connecticut
+                                                 Storrs, Mixed (Medical)
+                              #82 in Computer Science (tie)
+                   University of Maryland--Baltimore County
+                                              Baltimore, Mixed (Medical)
+                              #82 in Computer Science (tie)
+                            Worcester Polytechnic Institute
+                                              Worcester, Fully legal
+                              #82 in Computer Science (tie)
+                                          Auburn University
+                                                 Auburn, Fully Illegal
+                              #91 in Computer Science (tie)
+                                        Brandeis University
+                                                Waltham, Fully legal
+                              #91 in Computer Science (tie)
+                                   Brigham Young University
+                                                  Provo, Mixed (Medical)
+                              #91 in Computer Science (tie)
+                                   Colorado School of Mines
+                                                 Golden, Fully legal
+                              #91 in Computer Science (tie)
+                           Illinois Institute of Technology
+                                                Chicago, Fully legal
+                              #91 in Computer Science (tie)
+                         New Jersey Institute of Technology
+                                                 Newark, Mixed (Medical)
+                              #91 in Computer Science (tie)
+                            Stevens Institute of Technology
+                                                Hoboken, Mixed (Medical)
+                              #91 in Computer Science (tie)
+                                       University of Kansas
+                                               Lawrence, Fully Illegal
+                              #91 in Computer Science (tie)
+                                     University of Kentucky
+                                              Lexington, Mixed
+                              #91 in Computer Science (tie)
+                    University of North Carolina--Charlotte
+                                              Charlotte, Fully Illegal
+                              #91 in Computer Science (tie)
+                             University of Texas--Arlington
+                                              Arlington, Mixed
+                              #91 in Computer Science (tie)
+                                    Kansas State University
+                                              Manhattan, Fully Illegal
+                             #102 in Computer Science (tie)
+                                          Lehigh University
+                                              Bethlehem, Mixed (Medical)
+                             #102 in Computer Science (tie)
+                    Louisiana State University--Baton Rouge
+                                            Baton Rouge, Mixed
+                             #102 in Computer Science (tie)
+                                          Temple University
+                                           Philadelphia, Mixed (Medical)
+                             #102 in Computer Science (tie)
+                                      University of Georgia
+                                                 Athens, Mixed
+                             #102 in Computer Science (tie)
+                                      University of Houston
+                                                Houston, Mixed
+                             #102 in Computer Science (tie)
+                                     University of Missouri
+                                               Columbia, Mixed (Medical)
+                             #102 in Computer Science (tie)
+                                University of South Florida
+                                                  Tampa, Mixed (Medical)
+                             #102 in Computer Science (tie)
+                                     Wayne State University
+                                                Detroit, Fully legal
+                             #102 in Computer Science (tie)
